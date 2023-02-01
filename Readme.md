@@ -1,4 +1,4 @@
 Reinforcement Learning for Quantitative Trading
 ============
-[Documentation](www.google.com)
+[Documentation](https://google.com)
 ------------
